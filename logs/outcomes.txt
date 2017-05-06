@@ -1,0 +1,152 @@
+1,Human,Human,0,Human,21,game00001.log,
+2,GreedyPlayer,RandomPlayer,0,GreedyPlayer,37,game00002.log,
+3,RandomPlayer,GreedyPlayer,1,GreedyPlayer,21,game00003.log,
+4,xxxxxxxxx,GreedyPlayer,1,GreedyPlayer,25,game00004.log,
+5,GreedyPlayer,xxxxxxxxx,1,xxxxxxxxx,14,game00005.log,
+6,xxxxxxxxx,xxxxxxxxx,0,xxxxxxxxx,21,game00006.log,
+7,xxxxxxxxx,xxxxxxxxx,1,xxxxxxxxx,20,game00007.log,
+8,xxxxxxxxx,xxxxxxxxx,0,xxxxxxxxx,21,game00008.log,
+9,xxxxxxxxx,GreedyPlayer,1,GreedyPlayer,25,game00009.log,
+10,Human,xxxxxxxxx,1,xxxxxxxxx,18,game00010.log,
+11,xxxxxxxxx,GreedyPlayer,1,GreedyPlayer,25,game00011.log,
+12,xxxxxxxxx,GreedyPlayer,0,xxxxxxxxx,15,game00012.log,
+13,GreedyPlayer,xxxxxxxxx,1,xxxxxxxxx,10,game00013.log,
+14,xxxxxxxxx,GreedyPlayer,0,xxxxxxxxx,15,game00014.log,
+15,GreedyPlayer,xxxxxxxxx,1,xxxxxxxxx,14,game00015.log,
+16,xxxxxxxxx,GreedyPlayer,1,GreedyPlayer,25,game00016.log,
+17,xxxxxxxxx,xxxxxxxxx,0,xxxxxxxxx,21,game00017.log,
+18,xxxxxxxxx,xxxxxxxxx,0,xxxxxxxxx,21,game00018.log,
+19,xxxxxxxxx,GreedyPlayer,0,xxxxxxxxx,21,game00019.log,
+20,GreedyPlayer,xxxxxxxxx,1,xxxxxxxxx,19,game00020.log,
+21,xxxxxxxxx,xxxxxxxxx,1,xxxxxxxxx,25,game00021.log,
+22,xxxxxxxxx,xxxxxxxxx,0,xxxxxxxxx,21,game00022.log,
+23,xxxxxxxxx,GreedyPlayer,1,GreedyPlayer,25,game00023.log,
+24,RandomPlayer,xxxxxxxxx,1,xxxxxxxxx,12,game00024.log,
+25,xxxxxxxxx,xxxxxxxxx,0,xxxxxxxxx,26,game00025.log,
+27,xxxxxxxxx,GreedyPlayer,1,GreedyPlayer,22,game00027.log,
+28,xxxxxxxxx,GreedyPlayer,0,xxxxxxxxx,20,game00028.log,
+29,GreedyPlayer,xxxxxxxxx,1,xxxxxxxxx,13,game00029.log,
+30,RandomPlayer,xxxxxxxxx,1,xxxxxxxxx,27,game00030.log,
+31,xxxxxxxxx,xxxxxxxxx,0,xxxxxxxxx,201,game00031.log,
+33,xxxxxxxxx,xxxxxxxxx,1,xxxxxxxxx,1,game00033.log,TIMEOUT
+34,xxxxxxxxx,xxxxxxxxx,1,xxxxxxxxx,13,game00034.log,
+39,xxxxxxxxx,xxxxxxxxx,1,xxxxxxxxx,20,game00039.log,
+41,xxxxxxxxx,GreedyPlayer,0,xxxxxxxxx,18,game00041.log,
+42,xxxxxxxxx,GreedyPlayer,1,GreedyPlayer,22,game00042.log,
+43,RandomPlayer,xxxxxxxxx,1,xxxxxxxxx,36,game00043.log,
+44,260429466,GreedyPlayer,1,GreedyPlayer,29,game00044.log,
+45,260429466,GreedyPlayer,1,GreedyPlayer,32,game00045.log,
+46,GreedyPlayer,260429466,0,GreedyPlayer,23,game00046.log,
+47,GreedyPlayer,260429466,0,GreedyPlayer,24,game00047.log,
+48,260429466,GreedyPlayer,1,GreedyPlayer,21,game00048.log,
+49,260429466,GreedyPlayer,1,GreedyPlayer,10,game00049.log,
+50,260429466,GreedyPlayer,1,GreedyPlayer,28,game00050.log,
+51,260429466,GreedyPlayer,0,260429466,14,game00051.log,
+52,GreedyPlayer,260429466,0,GreedyPlayer,15,game00052.log,
+53,GreedyPlayer,260429466,0,GreedyPlayer,0,game00053.log,TIMEOUT
+54,GreedyPlayer,260429466,0,GreedyPlayer,0,game00054.log,TIMEOUT
+55,GreedyPlayer,260429466,0,GreedyPlayer,0,game00055.log,TIMEOUT
+56,260429466,GreedyPlayer,1,GreedyPlayer,0,game00056.log,TIMEOUT
+57,GreedyPlayer,260429466,0,GreedyPlayer,0,game00057.log,TIMEOUT
+58,260429466,GreedyPlayer,1,GreedyPlayer,0,game00058.log,TIMEOUT
+59,260429466,GreedyPlayer,1,GreedyPlayer,20,game00059.log,
+60,260429466,GreedyPlayer,1,GreedyPlayer,20,game00060.log,
+61,260429466,GreedyPlayer,1,GreedyPlayer,20,game00061.log,
+62,260429466,RandomPlayer,0,260429466,21,game00062.log,
+63,260429466,GreedyPlayer,1,GreedyPlayer,18,game00063.log,
+64,260429466,GreedyPlayer,0,260429466,27,game00064.log,
+65,GreedyPlayer,260429466,0,GreedyPlayer,23,game00065.log,
+66,GreedyPlayer,260429466,0,GreedyPlayer,20,game00066.log,ILLEGAL MOVE: Player 1 plays pit 4
+67,GreedyPlayer,260429466,1,260429466,18,game00067.log,
+68,260429466,GreedyPlayer,1,GreedyPlayer,7,game00068.log,ILLEGAL MOVE: Player 0 plays pit 3
+69,260429466,GreedyPlayer,1,GreedyPlayer,26,game00069.log,
+70,GreedyPlayer,260429466,0,GreedyPlayer,29,game00070.log,
+71,260429466,GreedyPlayer,1,GreedyPlayer,20,game00071.log,
+72,GreedyPlayer,260429466,1,260429466,20,game00072.log,
+73,260429466,GreedyPlayer,1,GreedyPlayer,49,game00073.log,
+74,260429466,GreedyPlayer,1,GreedyPlayer,20,game00074.log,
+75,260429466,GreedyPlayer,1,GreedyPlayer,20,game00075.log,
+76,260429466,GreedyPlayer,1,GreedyPlayer,28,game00076.log,
+77,GreedyPlayer,260429466,1,260429466,20,game00077.log,
+78,260429466,GreedyPlayer,1,GreedyPlayer,20,game00078.log,
+79,GreedyPlayer,260429466,1,260429466,19,game00079.log,
+82,260429466,GreedyPlayer,1,GreedyPlayer,28,game00082.log,
+83,260429466,GreedyPlayer,1,GreedyPlayer,20,game00083.log,
+84,260429466,GreedyPlayer,1,GreedyPlayer,20,game00084.log,
+85,GreedyPlayer,260429466,0,GreedyPlayer,30,game00085.log,
+86,260429466,GreedyPlayer,1,GreedyPlayer,22,game00086.log,
+87,GreedyPlayer,260429466,GAMEOVER DRAW         Player-0 score: 36  Player-1 score: 36,NOBODY,29,game00087.log,
+88,GreedyPlayer,260429466,GAMEOVER DRAW         Player-0 score: 36  Player-1 score: 36,NOBODY,29,game00088.log,
+89,260429466,GreedyPlayer,1,GreedyPlayer,22,game00089.log,
+90,260429466,GreedyPlayer,1,GreedyPlayer,22,game00090.log,
+91,260429466,GreedyPlayer,1,GreedyPlayer,22,game00091.log,
+92,RandomPlayer,260429466,1,260429466,42,game00092.log,
+93,260429466,GreedyPlayer,1,GreedyPlayer,26,game00093.log,
+94,260429466,GreedyPlayer,1,GreedyPlayer,22,game00094.log,
+95,260429466,GreedyPlayer,1,GreedyPlayer,28,game00095.log,
+96,260429466,GreedyPlayer,1,GreedyPlayer,22,game00096.log,
+97,260429466,GreedyPlayer,1,GreedyPlayer,22,game00097.log,
+98,260429466,GreedyPlayer,1,GreedyPlayer,28,game00098.log,
+99,GreedyPlayer,260429466,1,260429466,20,game00099.log,
+100,260429466,GreedyPlayer,1,GreedyPlayer,22,game00100.log,
+101,260429466,GreedyPlayer,1,GreedyPlayer,26,game00101.log,
+102,260429466,260429466,0,260429466,22,game00102.log,
+103,260429466,GreedyPlayer,GAMEOVER USER CANCEL UNDECIDED,NOBODY,16,game00103.log,USER CANCEL
+104,260429466,GreedyPlayer,1,GreedyPlayer,0,game00104.log,TIMEOUT
+105,260429466,GreedyPlayer,1,GreedyPlayer,0,game00105.log,TIMEOUT
+106,260429466,GreedyPlayer,1,GreedyPlayer,0,game00106.log,TIMEOUT
+107,260429466,GreedyPlayer,1,GreedyPlayer,0,game00107.log,TIMEOUT
+108,260429466,GreedyPlayer,GAMEOVER USER CANCEL UNDECIDED,NOBODY,0,game00108.log,USER CANCEL
+109,260429466,GreedyPlayer,1,GreedyPlayer,0,game00109.log,TIMEOUT
+110,260429466,GreedyPlayer,GAMEOVER USER CANCEL UNDECIDED,NOBODY,0,game00110.log,USER CANCEL
+111,260429466,GreedyPlayer,GAMEOVER USER CANCEL UNDECIDED,NOBODY,0,game00111.log,USER CANCEL
+112,260429466,GreedyPlayer,GAMEOVER USER CANCEL UNDECIDED,NOBODY,0,game00112.log,USER CANCEL
+113,260429466,GreedyPlayer,GAMEOVER USER CANCEL UNDECIDED,NOBODY,0,game00113.log,USER CANCEL
+115,260429466,GreedyPlayer,1,GreedyPlayer,0,game00115.log,TIMEOUT
+117,GreedyPlayer,260429466,0,GreedyPlayer,22,game00117.log,
+118,260429466,GreedyPlayer,1,GreedyPlayer,19,game00118.log,
+119,260429466,GreedyPlayer,1,GreedyPlayer,0,game00119.log,TIMEOUT
+121,260429466,GreedyPlayer,GAMEOVER USER CANCEL UNDECIDED,NOBODY,0,game00121.log,USER CANCEL
+124,260429466,GreedyPlayer,1,GreedyPlayer,23,game00124.log,
+125,260429466,GreedyPlayer,1,GreedyPlayer,0,game00125.log,TIMEOUT
+126,260429466,GreedyPlayer,1,GreedyPlayer,0,game00126.log,TIMEOUT
+127,260429466,GreedyPlayer,GAMEOVER DRAW         Player-0 score: 36  Player-1 score: 36,NOBODY,22,game00127.log,
+128,260429466,GreedyPlayer,GAMEOVER DRAW         Player-0 score: 36  Player-1 score: 36,NOBODY,22,game00128.log,
+129,260429466,GreedyPlayer,0,260429466,12,game00129.log,
+130,260429466,GreedyPlayer,0,260429466,12,game00130.log,
+131,260429466,GreedyPlayer,1,GreedyPlayer,0,game00131.log,TIMEOUT
+132,260429466,GreedyPlayer,1,GreedyPlayer,0,game00132.log,TIMEOUT
+133,260429466,GreedyPlayer,0,260429466,10,game00133.log,
+134,260429466,GreedyPlayer,0,260429466,13,game00134.log,
+135,GreedyPlayer,260429466,1,260429466,17,game00135.log,
+136,260429466,GreedyPlayer,1,GreedyPlayer,24,game00136.log,
+137,260429466,GreedyPlayer,1,GreedyPlayer,14,game00137.log,
+138,260429466,GreedyPlayer,0,260429466,15,game00138.log,
+139,260429466,GreedyPlayer,0,260429466,11,game00139.log,
+140,260429466,GreedyPlayer,1,GreedyPlayer,16,game00140.log,
+141,260429466,GreedyPlayer,0,260429466,14,game00141.log,
+142,260429466,GreedyPlayer,1,GreedyPlayer,20,game00142.log,
+143,260429466,GreedyPlayer,1,GreedyPlayer,20,game00143.log,
+144,260429466,GreedyPlayer,1,GreedyPlayer,20,game00144.log,
+145,260429466,GreedyPlayer,1,GreedyPlayer,22,game00145.log,
+146,GreedyPlayer,260429466,0,GreedyPlayer,20,game00146.log,
+147,GreedyPlayer,260429466,0,GreedyPlayer,26,game00147.log,
+148,260429466,GreedyPlayer,GAMEOVER DRAW         Player-0 score: 36  Player-1 score: 36,NOBODY,20,game00148.log,
+149,GreedyPlayer,260429466,1,260429466,20,game00149.log,
+150,GreedyPlayer,260429466,1,260429466,20,game00150.log,
+151,260429466,GreedyPlayer,0,260429466,16,game00151.log,
+152,260429466,GreedyPlayer,0,260429466,16,game00152.log,
+153,GreedyPlayer,260429466,1,260429466,20,game00153.log,
+154,GreedyPlayer,260429466,1,260429466,20,game00154.log,
+155,260429466,260429466,0,260429466,22,game00155.log,
+156,260429466,GreedyPlayer,0,260429466,13,game00156.log,
+157,GreedyPlayer,260429466,1,260429466,20,game00157.log,
+158,260429466,GreedyPlayer,0,260429466,14,game00158.log,
+159,260429466,GreedyPlayer,0,260429466,16,game00159.log,
+160,260429466,GreedyPlayer,0,260429466,16,game00160.log,
+161,GreedyPlayer,260429466,1,260429466,20,game00161.log,
+162,260429466,GreedyPlayer,0,260429466,16,game00162.log,
+163,260429466,GreedyPlayer,1,GreedyPlayer,1,game00163.log,TIMEOUT
+164,260429466,GreedyPlayer,1,GreedyPlayer,1,game00164.log,TIMEOUT
+165,GreedyPlayer,260429466,0,GreedyPlayer,1,game00165.log,TIMEOUT
+166,260429466,GreedyPlayer,0,260429466,16,game00166.log,

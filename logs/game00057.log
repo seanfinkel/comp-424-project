@@ -1,0 +1,13 @@
+# Server version 0.08 running on universityc-2-ap3.gw.mcgill.ca:8123
+# Game ID: 57
+# Board class: bohnenspiel.BohnenspielBoard
+# Timeout: 1000
+# First Move Timeout: 30000
+# Date: Mon Apr 10 16:49:55 EDT 2017
+# Player 1: Player-0, 'GreedyPlayer', running on universityc-2-ap3.gw.mcgill.ca
+# Player 2: Player-1, '260429466', running on universityc-2-ap3.gw.mcgill.ca
+START Player-0 GreedyPlayer
+START Player-1 260429466
+PIT 0 0
+GAMEOVER TIMEOUT WINNER 0         Player-0 score: 0  Player-1 score: 0
+# Game ended: Mon Apr 10 16:50:26 EDT 2017

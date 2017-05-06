@@ -1,0 +1,19 @@
+# Server version 0.08 running on wpa144012.wireless.mcgill.ca:8123
+# Game ID: 81
+# Board class: bohnenspiel.BohnenspielBoard
+# Timeout: 1000
+# First Move Timeout: 30000
+# Date: Mon Apr 10 18:14:36 EDT 2017
+# Player 1: Player-0, 'GreedyPlayer', running on wpa144012.wireless.mcgill.ca
+# Player 2: Player-1, '260429466', running on wpa144012.wireless.mcgill.ca
+START Player-0 GreedyPlayer
+START Player-1 260429466
+PIT 0 0
+PIT 1 0
+PIT 0 5
+PIT 1 0
+PIT 0 1
+PIT 1 0
+PIT 0 2
+PIT 1 0
+PIT 0 3
